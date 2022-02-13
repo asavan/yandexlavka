@@ -1,0 +1,1 @@
+export default{modes:["yandexlavka","default"],mode:"yandexlavka",sound:!1};
